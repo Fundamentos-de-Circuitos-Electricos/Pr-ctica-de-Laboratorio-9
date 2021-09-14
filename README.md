@@ -110,6 +110,8 @@ a) (10 + 3j)/2j - (7 + 2j)(3 ∢ -115º)
 
 5. CONCLUSIONES
 
+* El análisis senoidal por fasores es una manera simple de analizar tales circuitos sin resolver las ecuaciones diferenciales, que aplica al caso de entradas senoidales a una frecuencia dada, y una vez que el sistema se encuentra en estado estable.
+
 6. BIBLIOGRAFIA
 
 - Fisica Practica. (17 de Marzo de 2020). Representación fasorial. Obtenido de Representación fasorial: https://www.fisicapractica.com/fasores.php
