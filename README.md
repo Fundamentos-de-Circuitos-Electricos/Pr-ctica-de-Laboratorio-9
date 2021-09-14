@@ -92,7 +92,7 @@ d) 45 ∢ -117.9° = Ccosθ + Csenθj
 
 * Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar. 
 
-a) (10 + 3j)/2j - (7 + 2j)(3 ∢ -115º)
+- a) (10 + 3j)/2j - (7 + 2j)(3 ∢ -115º)
 
 = (10 + 3j)(-j)/2j(-j) - (7 + 2j)(3 ∢ -115º)
 
@@ -106,7 +106,7 @@ a) (10 + 3j)/2j - (7 + 2j)(3 ∢ -115º)
 
 = 4.94 + 16.56j = 17.28 ∢ 73.38º
 
-c) (34+28.5j)/ (4 ∢-20.8°)-51.2∢-215°
+- c) (34+28.5j)/ (4 ∢-20.8°)-51.2∢-215°
 
 Pasamos de Polares a rectangulares
 
