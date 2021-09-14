@@ -106,6 +106,20 @@ d) 45 ∢ -117.9° = Ccosθ + Csenθj
 
 = 4.94 + 16.56j = 17.28 ∢ 73.38º
 
+- b) (6.8  ∢ 125.3º) + 4.5∢-11.5º / 7.6-j1.2
+
+= -3.93 + j5.55 + (4.41– j0.896) / 7.6 – j1.2
+
+= -3.93 + j5.55 + (4.41– j0.896)( 7.6 + j1.2) / (7.6 – j1.2)(7.6 + j1.2)
+
+= -3.93 + j5.55 + (33.52 + j5.3 – j6.81 + 1.1) / (57.76 + 1.44)
+
+= -3.93 + j5.55 + (34.62 – j1.51) / 59.2
+
+= -3.93 + j5.55 + 0.58 – j0.03
+
+= -3.35 + j5.52 = 6.45 ∢ 121.25º
+
 - c) (34+28.5j)/ (4 ∢-20.8°)-51.2∢-215°
 
 Pasamos de Polares a rectangulares
@@ -137,6 +151,42 @@ C=14.95
 Respuesta en polares
 
 14.95 ∢60.87°
+
+* Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+- a) (10 + 3j)/2j - (7 + 2j)(3 ∢ -115º)
+
+Transformamos a forma rectangular
+
+![image](https://user-images.githubusercontent.com/84390686/133196329-293227ca-eaf8-4fc3-be56-c4c1ff968751.png)
+
+Realizamos la division de la forma rectangular
+
+![image](https://user-images.githubusercontent.com/84390686/133196474-71f08afc-8c2b-4844-8ec1-b9b0ce25b745.png)
+
+Realizamos la multiplicación de la forma rectangular
+
+![image](https://user-images.githubusercontent.com/84390686/133196671-a28bb6da-e043-4528-9db5-67c3c0940554.png)
+
+Resolvemos la resta y tenemos como resultado
+
+![image](https://user-images.githubusercontent.com/84390686/133196991-51233772-53a5-4791-9ec4-007210b6feea.png)
+
+- b) (6.8  ∢ 125.3º) + 4.5∢-11.5º / 7.6-j1.2
+
+Transformamos a forma rectangular
+
+![image](https://user-images.githubusercontent.com/84390686/133197070-c36fe970-321f-4e66-9779-bc0140b16fa1.png)
+
+![image](https://user-images.githubusercontent.com/84390686/133197125-fc7e2f09-c4a8-4d0d-a6e8-95bae8dc94c4.png)
+
+Realizamos la division de la forma rectangular
+
+![image](https://user-images.githubusercontent.com/84390686/133197449-da2ffea1-4842-4933-b629-25327b010440.png)
+
+Resolvemos la resta y tenemos como resultado
+
+![image](https://user-images.githubusercontent.com/84390686/133197726-286fd8a6-a1be-4bf5-b3da-076784f4a6a6.png)
 
 4. VIDEO
 
