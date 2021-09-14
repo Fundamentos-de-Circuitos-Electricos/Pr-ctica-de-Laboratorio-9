@@ -184,9 +184,25 @@ Realizamos la division de la forma rectangular
 
 ![image](https://user-images.githubusercontent.com/84390686/133197449-da2ffea1-4842-4933-b629-25327b010440.png)
 
-Resolvemos la resta y tenemos como resultado
+Resolvemos la suma y tenemos como resultado
 
 ![image](https://user-images.githubusercontent.com/84390686/133197726-286fd8a6-a1be-4bf5-b3da-076784f4a6a6.png)
+
+- c) (34+28.5j)/ (4 ∢-20.8°)-51.2∢-215°
+
+Transformamos a forma rectangular
+
+![image](https://user-images.githubusercontent.com/84390686/133198786-398d2986-45cd-4e4b-ba97-fdf7a8596592.png)
+
+![image](https://user-images.githubusercontent.com/84390686/133198867-177ca9bc-1ed0-4a86-9932-9f5ee70787e8.png)
+
+Realizamos la division de la forma rectangular
+
+![image](https://user-images.githubusercontent.com/84390686/133198986-e5517c3e-80ff-4b46-9814-4712e0051607.png)
+
+Resolvemos la suma y tenemos como resultado
+
+![image](https://user-images.githubusercontent.com/84390686/133199404-b897a880-3f8e-4be5-a0ae-bff26ae5b74a.png)
 
 4. VIDEO
 
