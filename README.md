@@ -206,6 +206,8 @@ Resolvemos la suma y tenemos como resultado
 
 4. VIDEO
 
+https://youtu.be/iJaT_-YNVCE
+
 5. CONCLUSIONES
 
 * El análisis senoidal por fasores es una manera simple de analizar tales circuitos sin resolver las ecuaciones diferenciales, que aplica al caso de entradas senoidales a una frecuencia dada, y una vez que el sistema se encuentra en estado estable.
