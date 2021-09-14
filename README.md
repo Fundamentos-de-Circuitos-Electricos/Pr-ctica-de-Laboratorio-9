@@ -6,7 +6,15 @@
 
 _General_ 
 
+- Realizar las operaciones aritméticas con números complejos, teniendo en su forma polar y rectangular.
+
 _Específicos_ 
+
+-	Identificar de qué forma están escritos los números complejos y transformar a su forma polar y a su forma rectangular.
+
+-	Realizar las 4 principales operaciones con los sistemas de números complejos como: suma, resta, multiplicación, división.
+
+-	Identificar los números complejos y verificar que están compuestos por una magnitud y un valor de ángulo. 
 
 2. MARCO TEÓRICO 
 
@@ -95,3 +103,12 @@ a) (10 + 3j)/2j - (7 + 2j)(3 ∢ -115º)
 = 1.5 - 5j - (-3.44 - 21.56j)
 
 = 4.94 + 16.56j = 17.28 ∢ 73.38º
+
+4. VIDEO
+
+5. CONCLUSIONES
+
+6. BIBLIOGRAFIA
+
+- Fisica Practica. (17 de Marzo de 2020). Representación fasorial. Obtenido de Representación fasorial: https://www.fisicapractica.com/fasores.php
+
