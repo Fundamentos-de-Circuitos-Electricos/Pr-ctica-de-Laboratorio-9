@@ -18,6 +18,8 @@ _Específicos_
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85137398/133176027-c8594c27-b9e1-4fb5-8012-474dd193e0a1.png)
+
 3. EXPLICACIÓN DEL PROCESO
 
 * Transforme a su forma polar: 
